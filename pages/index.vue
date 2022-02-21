@@ -1,5 +1,5 @@
 <template>
-  <Tutorial />
+  <div class = "Home"></div>
 </template>
 
 <script>
